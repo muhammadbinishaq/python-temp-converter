@@ -1,4 +1,3 @@
-
 while True:
     print("Your choice? \n" \
     "1. °F to °C \n" \
@@ -33,6 +32,4 @@ while True:
                 print("Program end. Thank You! ")
                 break
     except ValueError:
-            print("Invalid value! ")
-            
-    
+            print("Invalid value! ") 
